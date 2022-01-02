@@ -27,9 +27,9 @@
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
 			<img class="img-circle" src="assets/images/guy.jpg" alt="">
-			<span class="title">Mahalakshmi Ashokkumar</span>
-			<span class="tagline">Senior Engineer at Bosch<br>
-				<a href="">mahalakshmiashokkumar19@gmail.com</a></span>
+			<span class="title">Anthony Russel</span>
+			<span class="tagline">A mystery person<br>
+				<a href="">anthony.russel42@example.com</a></span>
 		</h1>
 	</div>
 
@@ -209,7 +209,7 @@
 
 </main>
 
-<!--footer id="footer">
+<footer id="footer">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 widget">
@@ -254,9 +254,9 @@
 				</div>
 			</div>
 
-		</div> 
+		</div> <!-- /row of widgets -->
 	</div>
-</footer -->
+</footer>
 
 <footer id="underfooter">
 	<div class="container">
