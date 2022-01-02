@@ -209,7 +209,7 @@
 
 </main>
 
-<footer id="footer">
+<!--footer id="footer">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 widget">
@@ -254,9 +254,9 @@
 				</div>
 			</div>
 
-		</div> <!-- /row of widgets -->
+		</div> 
 	</div>
-</footer>
+</footer -->
 
 <footer id="underfooter">
 	<div class="container">
