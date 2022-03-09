@@ -35,10 +35,10 @@
 	<nav class="navbar navbar-default">
 		<div class="container-fluid">
 			
-			<div class="navbar-header">
+			<!-- <div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			</div>
-			
+			 -->
 			<div class="navbar-collapse collapse">
 				
 				<ul class="nav navbar-nav">
@@ -89,12 +89,11 @@
 				<p>Senior Software engineer with experience in BSW (Autosar) configurations especially in comstack, IOstack and memstack. Proficent working in embedded C programming with 4+ years of work experience in automotive domain.</p>
 				<!-- Article main content <p><img src="assets/images/mac.jpg" alt="" class="" width="100%" ></p>-->
 				<h3>Work experience</h3>
-				<p>Started my career in Visteon corporation as a fresher right after my UG in Electronics and communcation engineering with the expertise of making hand full of projects in my college days exploring the embedded boards and programming languages.
-				Almost after two and half years of succesfully working in infotainment and instrument clusters of automotive domain on , I moved to Bosch global software technologies, where I got an exciting opportunity to work in VCUs of electric vehicles. Not to forget mentioning that i have worked for clients ranging from Mahindra and Mahindra, Hyundai to Stellantis (PSA)</p>
-				<h3>Accomplishments</h3>
-				<p>My consistent efforts has gained me spot award in Visteon and Being a problem solver, I would love to debug issues and solve them as and when neccessary. This trait has put me to get Shabash awars from my team in the name of problem solver.
+				<p>Started my career in Visteon corporation after completing my UG in Electronics and communcation engineering with the expertise of making hand full of projects in my college days exploring the embedded boards and programming languages.
+				Almost after two and half years of succesfully working in infotainment and instrument clusters of automotive domain, I moved to Bosch global software technologies, where I got an exciting opportunity to work in VCUs of electric vehicles. I have worked for clients ranging from Mahindra and Mahindra, Hyundai to Stellantis (PSA) during this period.<h3>Accomplishments</h3>
+				<p>My consistent efforts has gained me spot award in Visteon and Being a problem solver, i would like to debug issues and solve them as and when neccessary. This trait has put me to get Shabash awards from my team in the name of problem solver.
 				<h3>Interested to know more?!</h3>
-				<p>I have an interesting love for exploring new things, which have pushed me to learn watercolor art, clay art, embroidery, swimming and table tennis. wait...My zeal in learning interesting things will continue. Do check out this page so i will update my journey time to time.</p>
+				<p>My interest in exploring new things pushed me to learn watercolor art, clay art, embroidery, swimming and table tennis. wait...My zeal in learning interesting things will continue. Do check out this page so i will update my journey time to time.</p>
 			</article>
 			<!-- /Article -->
 			
